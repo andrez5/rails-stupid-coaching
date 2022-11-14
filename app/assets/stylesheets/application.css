@@ -13,3 +13,22 @@
  *= require_tree .
  *= require_self
  */
+  /* .submit {
+  width: 10%;
+ }
+
+ .text {
+  width: 30%;
+ } */
+
+ .site {
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
+ }
+
+ .text {
+  text-decoration: none;
+ }
